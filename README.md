@@ -36,7 +36,8 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 <br>
 ![Linux Syslog Auth Failures](https://github.com/eavi12/AzureSOCLab/assets/58631054/6478f886-a88c-49bc-99b2-797ed6f32b4d)
 <br>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+![Windows RDP/SMB Auth Failures](https://github.com/eavi12/AzureSOCLab/assets/58631054/822db162-4633-4de9-b4d1-1661f7d422f6)
+<br>
 
 ## Metrics Before Hardening / Security Controls
 
